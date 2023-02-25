@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Olliecherry
 - 👀 I’m interested in getting knowlwdges in Frontend development 
-- 🌱 I’m currently learning Frontend development 
-- 💞️ I’m looking to collaborate on new study tasks
+- 🌱 Currently living in Thailand
+- Chemist, formulations developper and remote worker
 - 📫 How to reach me Telegram @Olliecherry
 
 <!---
